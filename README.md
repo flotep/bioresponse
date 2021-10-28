@@ -1,6 +1,7 @@
 # Prédire la réponse biologique d'une molécule à partir de ses propriétés physico-chimiques 
 
 Compétition Kaggle : https://www.kaggle.com/c/bioresponse/overview
+
 Equipe : Maxime TISON, Florian TEP
 
 L'objectif de la compétition est de construire un modèle aussi bon que possible afin de permettre, 
